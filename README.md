@@ -1,4 +1,4 @@
-**EduNova Agent**
+**EDUNOVA AGENT**
 A Multi-Agent Smart Study Companion Designed to Simplify Learning
 
 EduNova Agent is an intelligent, modular study assistant built to help students learn faster, understand better, and stay organized. It generates study plans, topic summaries, MCQs, and formatted reports with just a single input. Powered by multi-agent workflows, EduNova turns complex study materials into structured, easy-to-revisit content—instantly.
@@ -63,3 +63,4 @@ EduNova generates downloadable:
 2.Add flashcard generator
 3.Add subject-wise progress tracking
 4.Automatic syllabus completion planner
+
