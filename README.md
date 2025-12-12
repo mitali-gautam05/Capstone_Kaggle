@@ -4,6 +4,7 @@ A Multi-Agent Smart Study Companion Designed to Simplify Learning
 EduNova Agent is an intelligent, modular study assistant built to help students learn faster, understand better, and stay organized. It generates study plans, topic summaries, MCQs, and formatted reports with just a single input. Powered by multi-agent workflows, EduNova turns complex study materials into structured, easy-to-revisit content—instantly.
 
 **Why EduNova?**
+
 Studying can be overwhelming—especially when you have too many subjects, notes scattered everywhere, and no idea where to start. EduNova solves this by acting like a personal mini-team of assistants:
 
 1.One agent plans.
@@ -43,10 +44,10 @@ Each agent is responsible for a single job. They collaborate to produce polished
 These agents communicate through a controller, ensuring the workflow runs smoothly from start to finish.
 
 **Tech Stack**
-Backend: FastAPI
-Frontend: HTML + TailwindCSS
-AI Engine: GPT-powered multi-agent system
-Server: Uvicorn
+1.Backend: FastAPI
+2.Frontend: HTML + TailwindCSS
+3.AI Engine: GPT-powered multi-agent system
+4.Server: Uvicorn
 
 **Outputs You Get**
 
@@ -63,4 +64,5 @@ EduNova generates downloadable:
 2.Add flashcard generator
 3.Add subject-wise progress tracking
 4.Automatic syllabus completion planner
+
 
